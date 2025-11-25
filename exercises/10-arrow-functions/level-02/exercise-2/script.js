@@ -4,4 +4,8 @@
 //     if (x > 0) return true;
 //     else return false;
 // };
-
+const isPositive = (x) => {
+if (x > 0) {return true;
+} else {return false;
+}
+}

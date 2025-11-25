@@ -4,3 +4,7 @@
 //     return "Hello!";
 // }
 
+function sayHello() {
+    return "Ni hao!";
+}
+console.log(sayHello());

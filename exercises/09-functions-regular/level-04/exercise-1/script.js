@@ -4,3 +4,8 @@
 //     return "Hello, " + name;
 // }
 
+function greet(name) {
+    return "whats up, " + name;
+}
+let name = "Calvin";
+console.log(greet(name));

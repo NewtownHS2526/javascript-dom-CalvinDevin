@@ -4,3 +4,6 @@
 //     console.log("Welcome");
 // }
 
+if (username === "Devin" && age === 28) {
+    console.log("Welcome");
+}

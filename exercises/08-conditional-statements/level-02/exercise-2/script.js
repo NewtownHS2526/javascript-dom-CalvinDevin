@@ -3,4 +3,6 @@
 // if (day === "Saturday" || day === "Sunday") {
 //     console.log("Weekend!");
 // }
-
+if (day === "Saturday" || day === "Sunday") {
+    console.log("Weekend!");
+}

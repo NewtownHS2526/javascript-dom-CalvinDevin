@@ -4,3 +4,7 @@
 //     return "Hi!";
 // };
 
+const plssay = () => {
+    return "Hi!";
+}
+console.log(plssay());

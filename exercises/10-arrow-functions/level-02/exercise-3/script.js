@@ -3,3 +3,7 @@
 // const add = (a, b) => a + b;
 // const multiply = (a, b) => a * b;
 
+const add = (a, b) => a + b;
+const multiply = (a, b) => a * b;
+console.log(add(3, 7)); // 10
+console.log(multiply(3, 7)); // 21

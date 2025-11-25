@@ -4,3 +4,7 @@
 //     return "Hello!";
 // }
 
+function sayHello() {
+    return "beunos DIAS!";
+}   
+console.log(sayHello());

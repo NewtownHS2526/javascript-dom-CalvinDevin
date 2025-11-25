@@ -4,3 +4,7 @@
 //     return x * 2;
 // };
 
+const double = (x) => {
+    return x * 2;
+}   
+console.log(double(67)); // 134
